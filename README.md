@@ -1,5 +1,7 @@
 # Textik
-
+graph TD
+  A[Pipet Tetes] -->|Pipetkan| B[Gelas Beaker]
+  
 2d canvas-based Rich Text Editor.
 
 `Textik` is a fork of [Carota](https://github.com/danielearwicker/carota).
